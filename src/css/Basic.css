@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+
+.p-point {
+    font-size: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p, td {
+    line-height: 1.5 !important;
+}
+
+.div-modal-dashboard {
+    width: 1000px !important;
+    background-color: #ffffff00;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    display: inline-block;
+}
+
+.div-white-bg-view-task-body {
+    background-color: white;
+    text-align: left;
+    border: 1px solid #d8d8d8;
+    padding: 0;
+    border-radius: 20px;
+    overflow-y: auto;
+}
+.div-bg-image-1{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-image: url(../images/p_img_snuper_1.png)
+
+}
