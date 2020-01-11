@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/suminpixel/mypage/static/css/main.47792e33.chunk.css",
+    "main.js": "/suminpixel/mypage/static/js/main.31167bf8.chunk.js",
+    "main.js.map": "/suminpixel/mypage/static/js/main.31167bf8.chunk.js.map",
+    "runtime-main.js": "/suminpixel/mypage/static/js/runtime-main.2300e787.js",
+    "runtime-main.js.map": "/suminpixel/mypage/static/js/runtime-main.2300e787.js.map",
+    "static/js/2.ba640547.chunk.js": "/suminpixel/mypage/static/js/2.ba640547.chunk.js",
+    "static/js/2.ba640547.chunk.js.map": "/suminpixel/mypage/static/js/2.ba640547.chunk.js.map",
+    "index.html": "/suminpixel/mypage/index.html",
+    "precache-manifest.54d524ddb4d23a2173c9ea4e08ef0478.js": "/suminpixel/mypage/precache-manifest.54d524ddb4d23a2173c9ea4e08ef0478.js",
+    "service-worker.js": "/suminpixel/mypage/service-worker.js",
+    "static/css/main.47792e33.chunk.css.map": "/suminpixel/mypage/static/css/main.47792e33.chunk.css.map",
+    "static/js/2.ba640547.chunk.js.LICENSE": "/suminpixel/mypage/static/js/2.ba640547.chunk.js.LICENSE",
+    "static/media/p_ic_css.png": "/suminpixel/mypage/static/media/p_ic_css.b9958b19.png",
+    "static/media/p_ic_react.png": "/suminpixel/mypage/static/media/p_ic_react.a9a61ba0.png",
+    "static/media/p_ic_redux.png": "/suminpixel/mypage/static/media/p_ic_redux.6676184e.png",
+    "static/media/p_ic_sass.png": "/suminpixel/mypage/static/media/p_ic_sass.1970f23a.png",
+    "static/media/p_ic_zepline.png": "/suminpixel/mypage/static/media/p_ic_zepline.80ef34ec.png",
+    "static/media/p_img_deco_1.png": "/suminpixel/mypage/static/media/p_img_deco_1.2ea40af3.png",
+    "static/media/p_img_snuper_0.png": "/suminpixel/mypage/static/media/p_img_snuper_0.d12aaa2e.png",
+    "static/media/Basic.css": "/suminpixel/mypage/static/media/p_img_snuper_1.4a06867a.png",
+    "static/media/p_img_snuper_2.png": "/suminpixel/mypage/static/media/p_img_snuper_2.a846afe2.png",
+    "static/media/p_img_snuper_3.png": "/suminpixel/mypage/static/media/p_img_snuper_3.802af825.png",
+    "static/media/p_img_snuper_4.png": "/suminpixel/mypage/static/media/p_img_snuper_4.078be902.png",
+    "static/media/p_img_snuper_5.png": "/suminpixel/mypage/static/media/p_img_snuper_5.834b38b8.png",
+    "static/media/p_img_snuper_6.png": "/suminpixel/mypage/static/media/p_img_snuper_6.7e942598.png",
+    "static/media/p_img_snuper_8.png": "/suminpixel/mypage/static/media/p_img_snuper_8.28d08d1f.png",
+    "static/media/p_img_snuper_cover.png": "/suminpixel/mypage/static/media/p_img_snuper_cover.0c43b345.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2300e787.js",
+    "static/js/2.ba640547.chunk.js",
+    "static/css/main.47792e33.chunk.css",
+    "static/js/main.31167bf8.chunk.js"
+  ]
+}
